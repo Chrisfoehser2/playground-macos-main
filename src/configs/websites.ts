@@ -14,7 +14,7 @@ const websites: WebsitesData = {
         id: "my-linkedin",
         title: "Linkedin",
         img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/xiaohan-zou"
+        link: "https://www.linkedin.com/in/christopher-foehser-a1695a148/"
       },
 
       {
