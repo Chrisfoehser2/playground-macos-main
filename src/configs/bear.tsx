@@ -31,7 +31,7 @@ const bear: BearData[] = [
       {
         id: "ecom-delight",
         title: "Yummy Delight",
-        file: "https://raw.githubusercontent.com/Renovamen/flint/main/README.md",
+        file: "https://raw.githubusercontent.com/Chrisfoehser2/ecom-delights/master/README.md",
         icon: "i-heroicons-solid:fire",
         excerpt: "A ecommerce webite for coffee and yummy delgiths",
         link: "https://github.com/Chrisfoehser2/ecom-delights"
