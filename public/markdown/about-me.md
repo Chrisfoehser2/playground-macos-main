@@ -18,4 +18,4 @@ Contact me by:
 
 ## Résumé
 
--[Resume PDF](../resume/Christopher_Foehser_Resume.pdf)
+-Resume: [Resume PDF](../resume/Christopher_Foehser_Resume.pdf)
