@@ -37,6 +37,21 @@ const bear: BearData[] = [
         link: "https://github.com/Chrisfoehser2/ecom-delights"
       }
     ]
+  },
+  {
+    id: "project",
+    title: "Projects",
+    icon: "i-octicon:repo",
+    md: [
+      {
+        id: "fetchAPI-TypeScript",
+        title: "Fetch A Friend",
+        file: "https://raw.githubusercontent.com/Chrisfoehser2/fetchAPI-TypeScript/master/README.md",
+        icon: "i-heroicons-solid:fire",
+        excerpt: "A ecommerce webite for adopting your new furry friend",
+        link: "https://github.com/Chrisfoehser2/fetchAPI-TypeScript"
+      }
+    ]
   }
 ];
 
