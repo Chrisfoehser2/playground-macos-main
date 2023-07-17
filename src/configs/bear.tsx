@@ -35,14 +35,7 @@ const bear: BearData[] = [
         icon: "i-heroicons-solid:fire",
         excerpt: "A ecommerce webite for coffee and yummy delights",
         link: "https://github.com/Chrisfoehser2/ecom-delights"
-      }
-    ]
-  },
-  {
-    id: "project",
-    title: "Projects",
-    icon: "i-octicon:repo",
-    md: [
+      },
       {
         id: "fetchAPI-TypeScript",
         title: "Fetch A Friend",
